@@ -38,11 +38,11 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	margin-bottom: -6px;
+	margin-right: 1em;
 }
 
 #name h2 {
-	font-size: 2em;
+	font-size: 1em;
 	margin-left: 2px;
 }
 
